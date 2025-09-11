@@ -270,6 +270,9 @@ footer img{
   body{
   font-size: 12px;
   }
+  .site-nav{
+    max-width: 100%;
+  }
 }
 
 @media screen and (min-width: 321px){
