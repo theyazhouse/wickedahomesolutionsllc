@@ -4,7 +4,7 @@
   --secondary: #0A0B5B;
   --third: #000000;
 }
-,site{
+.site{
   max-height: 100dvh;
   display: grid;
   grid-template-rows: auto 1fr auto;
